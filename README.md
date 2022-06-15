@@ -3,7 +3,10 @@
 ### <a href="https://anibase.000webhostapp.com" target="_blank">Live Demo Anibase Tugas M3 & M4</a>
 
 # Isi Dari Project Tugas Ini
-
+<ul>
+    <li><a href="## Dashboard">Dashboard</a></li>
+<ul>
+    
 ## Database
 
 dapat diakses di public/db/anibase.sql kemudian import ke database anda dengan nama database anibase
