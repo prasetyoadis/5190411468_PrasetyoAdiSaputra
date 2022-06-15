@@ -35,4 +35,4 @@ app/Http/Countroller/RegisterController.php<br>
 ## Dashboard
 
 routes/web.php<br>
-<img src="https://anibase.000webhostapp.com/img/dasboard.png">
+<img src="https://anibase.000webhostapp.com/img/dashboard.png">
