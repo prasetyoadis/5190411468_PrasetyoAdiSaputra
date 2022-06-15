@@ -22,7 +22,7 @@ routes/web.php<br>
 <img src="https://anibase.000webhostapp.com/img/logout2.png">
 
 app/Http/Controller/LoginController.php<br>
-<img src="https://anibase.000webhostapp.com/img/logout1.png">
+<img src="https://anibase.000webhostapp.com/img/logout.png">
 
 ## Register
 
