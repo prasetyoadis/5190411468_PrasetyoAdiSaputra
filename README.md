@@ -10,23 +10,29 @@ dapat diakses di public/db/anibase.sql kemudian import ke database anda dengan n
 
 ## Login
 
-routes/web.php
-<img src="https://anibase.000webhostapp.com/img/anibase.png" width="400">
+routes/web.php<br>
+<img src="https://anibase.000webhostapp.com/img/login1.png">
 
-app/Http/Controller/LoginControler.php
-<img src="https://anibase.000webhostapp.com/img/anibase.png" width="400">
+app/Http/Controller/LoginController.php<br>
+<img src="https://anibase.000webhostapp.com/img/login2.png">
 
 ## Logout
 
-app/Http/Controller/LoginControler.php
-<img src="https://anibase.000webhostapp.com/img/anibase.png" width="400">
+routes/web.php<br>
+<img src="https://anibase.000webhostapp.com/img/logout2.png">
+
+app/Http/Controller/LoginController.php<br>
+<img src="https://anibase.000webhostapp.com/img/logout1.png">
 
 ## Register
 
-routes/web.php
-<img src="https://anibase.000webhostapp.com/img/anibase.png" width="400">
+routes/web.php<br>
+<img src="https://anibase.000webhostapp.com/img/register.png">
+
+app/Http/Countroller/RegisterController.php<br>
+<img src="https://anibase.000webhostapp.com/img/register2.png">
 
 ## Dashboard
 
-routes/web.php
-<img src="https://anibase.000webhostapp.com/img/anibase.png" width="400">
+routes/web.php<br>
+<img src="https://anibase.000webhostapp.com/img/dasboard.png">
