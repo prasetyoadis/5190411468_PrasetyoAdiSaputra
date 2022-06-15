@@ -14,7 +14,7 @@ routes/web.php<br>
 <img src="https://anibase.000webhostapp.com/img/login1.png">
 
 app/Http/Controller/LoginController.php<br>
-
+<img src="https://anibase.000webhostapp.com/img/login2.png">
 
 ## Logout
 
