@@ -30,7 +30,7 @@ routes/web.php<br>
 <img src="https://anibase.000webhostapp.com/img/register.png">
 
 app/Http/Countroller/RegisterController.php<br>
-<img src="d">
+<img src="https://anibase.000webhostapp.com/img/register2.png">
 
 ## Dashboard
 
