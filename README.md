@@ -20,11 +20,11 @@ app/Http/Controller/LoginController.php<br>
 ## Logout
 
 routes/web.php<br>
-<img src="https://anibase.000webhostapp.com/img/logout2.png">
+<img src="https://anibase.000webhostapp.com/img/logout2.png"><br>
 middleware('auth') digunakan untuk menjaga request /logout hanya dapat diakses oleh pengunjung yang sudah authtentifikasi login
 
 app/Http/Controller/LoginController.php<br>
-<img src="https://anibase.000webhostapp.com/img/logout.png">
+<img src="https://anibase.000webhostapp.com/img/logout.png"><br>
 memanggil method fungsi userLogin(Request $request) pada LoginController lalu pada method fungsi tersebut dilakukan validasi dari $request dimana email dan password tidak boleh null dan email harus terdapat dns. kemudian pengkondisian jika Auth:attempt($formValid) menghasilkan true maka $request session() meregenerete kemudian me-return-kan redirect() identeded /admin. jika gagal akan return back() with pesan error Login Gagal
 
 ## Register
